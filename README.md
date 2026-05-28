@@ -13,7 +13,7 @@ more effeciently.
 
 -ShuaG
 
-PS: attached is the original porject proposal I wrote for myslef, I'd love to see other people
+PS: attached is the original porject proposal I wrote for myself, I'd love to see other people
 implement it in their own ways, tag me if you do! (:
 
 [Project Proposal-MA.pdf](https://github.com/user-attachments/files/17790164/Project.Proposal-MA.pdf)
